@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Rodrigo Munoz Salas and I am a Computer Science student. I am very interested on working and supporting in several programming projects as well as learning new techniques, methodologies, and algorithms.
-I am currently learning Golang by building a BLog Aggregator Service; however, I have programming experience with Java, Python, and C.
+I have programming experience with Java, Python, C, and Golang.
+I have worked with Docker to build, share, and run applications within a safe environment.
+I have employed frameworks such as PyTorch, LangChain, and Streamlit for the development of AI applications.
 <!--
 **Rodrigo-Munoz-Salas/Rodrigo-Munoz-Salas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
