@@ -1,6 +1,6 @@
 ### Hi there 👋
-I am Rodrigo Munoz Salas and I am a Computer Science student. I am very interested on working and supporting in several programming projects as well as learning new techniques, methodologies, and algorithms.
-I have programming experience with Java, Python, C, and Golang.
+I am Rodrigo Munoz Salas. I am very interested on working and supporting in several programming projects as well as learning new techniques, methodologies, and algorithms.
+I have programming experience with Golanf, Python, C, and Java.
 I have worked with Docker to build, share, and run applications within a safe environment.
 I have employed frameworks such as PyTorch, LangChain, and Streamlit for the development of AI applications.
 <!--
